@@ -1,0 +1,40 @@
+.figcaption {
+    font-size: 25px;
+}
+body {
+    font-size: 18px;
+    font-family: "Avenir Light", sans-serif;
+    display: block;
+    padding: 0px 200px;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 29px;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.img-header {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.center-fig {
+    display: block;
+}
+
+.center-fig img {
+    border: 5px solid #555;
+}
